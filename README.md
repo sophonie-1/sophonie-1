@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Bukira Sophonie
 
-<!--
-**sophonie-1/sophonie-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full-Stack Developer | Django & React Enthusiast | Self-Taught Learner**
 
-Here are some ideas to get you started:
+I’m passionate about building web applications that solve real-world problems.  
+Currently focused on improving my backend skills with **Django** and frontend mastery in **React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 Currently learning: **Information and Technologie at Uganda Christian University**
+- 💼 Working on: **E-commerce and Book Distribution projects**
+- 🎓 I have specialized in **Full Stack Web development**
+- 🧑‍🏫 I’m a **Freelancer** and **Teacher for web development**
+- 🎸 I enjoy playing the **piano and guitar**
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks:** Django, React, Bootstrap, Tailwind CSS  
+**Tools:** Git, Figma, VS Code, Postman  
+**Databases:** SQLite, PostgreSQL, Mysql
+
+---
+
+## 🌍 Connect with Me
+- 💼 [My Portfolio Website](https://portifolio-bukira12.vercel.app/)
+- 🐦 [Twitter](https://twitter.com/yourusername)
+- 💻 [LinkedIn](https://linkedin.com/in/bukira-sophoni-0b1a0b2b2)
+- 📫 [Email](bukirasophoni347@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![Bukira's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophonie-1&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophonie-1&layout=compact&theme=radical)
+
+---
+
+> _“Learning never stops. Keep building, keep growing.”_ 🌱
