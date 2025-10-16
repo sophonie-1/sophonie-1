@@ -26,7 +26,7 @@ Currently focused on improving my backend skills with **Django** and frontend ma
 
 ## 🌍 Connect with Me
 - 💼 [My Portfolio Website](https://portifolio-bukira12.vercel.app/)
-- 🐦 [Twitter](https://twitter.com/yourusername)
+- 🐦 [profile coursera](https://www.coursera.org/user/ed56889064e7e16773091fbd84366a30)
 - 💻 [LinkedIn](https://linkedin.com/in/bukira-sophoni-0b1a0b2b2)
 - 📫 [Email](bukirasophoni347@gmail.com)
 
