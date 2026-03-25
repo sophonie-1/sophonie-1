@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,20:1e293b,40:334155,70:0ea5e9,100:38bdf8&text=Bukira%20Sophonie&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Django%20%26%20React%20Enthusiast&descAlignY=58&animation=fadeIn" />
+![Snake animation dark](https://raw.githubusercontent.com/Bukira/Bukira/output/github-contribution-grid-snake-dark.svg)
 
 # 👋 Hi, I'm Bukira Sophonie
 
