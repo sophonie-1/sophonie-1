@@ -1,6 +1,6 @@
 <div align="center">
 
-![Snake animation dark](https://raw.githubusercontent.com/Bukira/Bukira/output/github-contribution-grid-snake-dark.svg)
+![Snake animation dark](https://raw.githubusercontent.com/sophonie-1/sophonie-1/output/github-contribution-grid-snake-dark.svg)
 
 # 👋 Hi, I'm Bukira Sophonie
 
