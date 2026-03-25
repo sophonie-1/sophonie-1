@@ -70,27 +70,19 @@
 
 ---
 
+---
+
 ## ⚡ Animated Tech Stack
 
 <div align="center">
-
-**Languages**  
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" />  
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" />  
-<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" />  
-<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" />
-
-**Frameworks**  
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" />  
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" />  
-<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind" width="65" />
-
-**Tools & DB**  
-<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" />  
-<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" />  
-<img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,react,tailwind,bootstrap,postgresql,mysql,sqlite,git,github,vscode,figma,postman&perline=8" 
+       alt="My Animated Tech Stack" 
+       width="85%" 
+       style="border: 4px solid #ea00d9; border-radius: 20px; box-shadow: 0 0 35px #0abdc6;" />
+  <p><em>Hover over the icons for extra neon glow ✨</em></p>
 </div>
+
+---
 
 ---
 
