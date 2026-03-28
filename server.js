@@ -40,11 +40,6 @@ io.on('connection', (socket) => {
     currentName = userName;
 
     if (room.length === 2) {
-      const partnerName = room.find((u) => u.socketId !== socket.id).name;
-      // Notify both users they are connected
-      io.to(roomCode).emit('connected', {
-        partnerName: null, // each side gets the other's name below
-      });
       // Send each user their partner's name
       room.forEach((user) => {
         const partner = room.find((u) => u.socketId !== user.socketId);
